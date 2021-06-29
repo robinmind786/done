@@ -270,13 +270,13 @@ h6 {
 }
 
 #intro .intro-content .btn-projects {
-    background: #c4a75b;
-    border: 2px solid #c4a75b;
+    background: #FF0000;
+    border: 2px solid #FF0000;
 }
 
 #intro .intro-content .btn-projects:hover {
     background: none;
-    color: #c4a75b;
+    color: #FF0000;
 }
 
 #intro #intro-carousel {
